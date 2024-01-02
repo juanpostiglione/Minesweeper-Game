@@ -3,6 +3,8 @@
 # DESCRIPTION:
 This project consist in recreate a classic Minesweeper game using C++ programming language and SFML. The board is made up of a grid of clickable tiles, with hidden "mines" dispersed throughout. The goal is to clear the board without detonating any mines, using hints about the amount of surrounding mines in each field to help.
 
+You can find a video in the files showing a gameplay. 
+
 # PNG FILES USED FOR THE GAME:
 
 ## BUTTONS:
